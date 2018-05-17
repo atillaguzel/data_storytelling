@@ -1,4 +1,4 @@
-## Introduction: Data Storytelling
+## A Data Storytelling Project
 
 Numbers have an important story to tell...
 
