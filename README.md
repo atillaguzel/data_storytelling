@@ -12,7 +12,7 @@ If we cannot communicate the insight of it, why do we have the data in the first
 
 ### [Click here](https://github.com/atillaguzel/data_storytelling/blob/master/screenshots/SLIDES.md) to see the slides created for presentation of the project
 
-### [Click here](https://github.com/data_storytelling/DATADIARY.md) to see Python file used to scrape, preprocess and visualize data
+### [Click here](DATADIARY.md) to see Python codes used to scrape, preprocess and visualize the data
 
 ### Please feel free to [communicate](https://twitter.com/atillaguzel)
 
