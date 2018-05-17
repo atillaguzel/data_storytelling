@@ -1,4 +1,4 @@
-# Brief Introduction to Data Storytelling Concept
+## Introduction: Data Storytelling
 
 Numbers have an important story to tell...
 
