@@ -1,8 +1,6 @@
 ## Popularity of Data Science, Python and Python’s Major Libraries
 
-Submitted to: Alice Corona
-Submitted by: Atilla Guzel
-Date: 17th May 2018
+Submitted to: Alice Corona; Submitted by: Atilla Guzel; Date: 17th May 2018
 
 This aim of this project is to present the trends, popularity and level of contribution in Data Science field with a special focus on powerful programming language Python and its libraries. The findings of this project could potentially encourage contributions to the development of Python.
 
