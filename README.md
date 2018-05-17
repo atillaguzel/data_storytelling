@@ -6,7 +6,7 @@ This project is part of Data Storytelling course assignment during Data Science 
 
 If we cannot communicate the insight of it, why do we have the data in the first place anyway. One of the best practice to communicate the data is via visualizations.
 
-[![14 years of Python at Google Trends](data_storytelling/screenshots/14-years-of-python.png)]
+[![14 years of Python at Google Trends](https://github.com/atillaguzel/data_storytelling/blob/master/screenshots/14-years-of-python.png)]
 
 ### [Click here](https://github.com/data_storytelling/DATADIARY.md) to see the data diary
 
