@@ -89,6 +89,7 @@ The repositories of Python Libraries that are examined and the data scraped from
 12)	iPython: https://github.com/ipython/ipython 
 13)	Jupyter: https://github.com/jupyter/notebook 
 14)	Spyder: https://github.com/spyder-ide/spyder
+
 The tools used for data wrangling, data scraping and data visualizations:
 1)	Python: https://www.python.org 
 2)	Python Pandas: https://github.com/pandas-dev/pandas
@@ -99,7 +100,6 @@ The tools used for data wrangling, data scraping and data visualizations:
 7)	Python Requests: https://github.com/requests/requests 
 8)	Tableau: https://www.tableau.com/ 
 9)	Keynote: https://www.apple.com/keynote/ 
- 
 
 ## Criteria for the Project
 
