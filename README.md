@@ -1,4 +1,4 @@
-# Data Storytelling
+# Brief Introduction to Data Storytelling Concept
 
 Numbers have an important story to tell...
 
@@ -8,9 +8,9 @@ If we cannot communicate the insight of it, why do we have the data in the first
 
 ## Popularity of Data Science, Python and Python’s Major Libraries
 
-Submitted to:	:	Alice Corona
-Submitted by:	:	Atilla Guzel
-Date: 	:	17th May 2018
+Submitted to: Alice Corona
+Submitted by: Atilla Guzel
+Date: 17th May 2018
 
 This aim of this project is to present the trends, popularity and level of contribution in Data Science field with a special focus on powerful programming language Python and its libraries. The findings of this project could potentially encourage contributions to the development of Python.
 
@@ -69,7 +69,6 @@ Google Trends search result for keywords "Python Scikit", "Python Keras", "Pytho
 Thanks to scientific thought, research and contributions of open-source community Python is growing. It is the Python-users duty to give it back to the community by contributing. The future of data science field would be brighter if sharing culture remains and nurtures.
 
 
-
 The links of of Data Sources:
 1)	GitHub: https://github.com
 2)	Google Trends: https://trends.google.com/trends/
@@ -101,7 +100,6 @@ The tools used for data wrangling, data scraping and data visualizations:
 8)	Tableau: https://www.tableau.com/ 
 9)	Keynote: https://www.apple.com/keynote/ 
  
-
 
 ## Criteria for the Project
 
